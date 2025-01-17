@@ -125,7 +125,7 @@ address{
 
 
 
-/* --FIRST-SECTION-- */
+/* --MAIN-SECTION-- */
 
 .main-section {
     background-color: #2e2f42;
@@ -280,7 +280,7 @@ h1 {
 }
 
 
-/* --FOURTH-SECTION-- */
+/* --PORTFOLIO-SECTION-- */
 
 .portfolio-section{
     padding: 120px 0;
@@ -294,7 +294,7 @@ h1 {
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
-    padding-bottom: 72px;
+    margin-bottom: 72px;
 }
 
 .portfolio-list{
@@ -320,6 +320,7 @@ h1 {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    margin-bottom: 8px;
 }
 
 .portfolio-category {
